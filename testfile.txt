@@ -1,2 +1,13 @@
-Hello, this is a test file.
-I am using it to test translating documents.
+Name: Tamakloe Daniel Seyram
+Index Number: 4231210097
+
+Signal Processing in Biometric Systems
+Signal processing in biometric systems refers to the interpretation and analysis of biological data of humans to recognize people. This is done to ensure that biometric systems are accurate, reliable and efficient in handling the data in whatever system it is used in.
+There are some key aspects of signal processing which include;
+1.	Gathering of data: Biometric data is collected from individuals in from various devices and that data is stored and used later for analysis.
+2.	Preprocessing: The data is collected during the gathering stage is cleaned up of all its noise and unnecessary information that is not needed for the analysis.
+3. 	Feature Extraction: The specific or unique features gathered from the users are taken from the preprocessed data and stored in a way that can be used for analysis and comparisons later on.
+4. 	 Feature Matching: The extracted features are compared with stored templates to find a match. This involves measuring the similarity between the features of the input data and the stored biometric templates.
+5. 	Decision Making: From the score given in the matching process, a decision is taken as to whether the biometric data entered belongs to a known individual in the system or not.
+
+This is applied in every system that uses biometric systems, be it security systems, voter systems, financial services, etc, and are important in keeping our data and belongings safe. 

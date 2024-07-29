@@ -1,0 +1,13 @@
+Nom : Tamakloe Daniel Seyram
+Numéro d'index : 4231210097
+
+Traitement du signal dans les systèmes biométriques
+Le traitement du signal dans les systèmes biométriques fait référence à l'interprétation et à l'analyse des données biologiques des humains pour reconnaître les personnes. Ceci est fait pour garantir que les systèmes biométriques sont précis, fiables et efficaces dans le traitement des données, quel que soit le système dans lequel ils sont utilisés.
+Certains aspects clés du traitement du signal comprennent :
+1. Collecte de données : les données biométriques sont collectées auprès d'individus à partir de divers appareils et ces données sont stockées et utilisées ultérieurement à des fins d'analyse.
+2. Prétraitement : les données collectées lors de la phase de collecte sont nettoyées de tout leur bruit et des informations inutiles qui ne sont pas nécessaires à l'analyse.
+3. Extraction de fonctionnalités : les caractéristiques spécifiques ou uniques recueillies auprès des utilisateurs sont extraites des données prétraitées et stockées de manière à pouvoir être utilisées ultérieurement à des fins d'analyse et de comparaison.
+4. Correspondance des fonctionnalités : les fonctionnalités extraites sont comparées aux modèles stockés pour trouver une correspondance. Cela implique de mesurer la similarité entre les caractéristiques des données d'entrée et les modèles biométriques stockés.
+5. Prise de décision : à partir du score attribué lors du processus de mise en correspondance, une décision est prise quant à savoir si les données biométriques saisies appartiennent ou non à un individu connu dans le système.
+
+Ceci s'applique à tous les systèmes utilisant des systèmes biométriques, qu'il s'agisse de systèmes de sécurité, de systèmes de vote, de services financiers, etc., et est important pour assurer la sécurité de nos données et de nos biens.
