@@ -1,0 +1,2 @@
+Hallo, das ist eine Testdatei.
+Ich verwende es, um die Übersetzung von Dokumenten zu testen.
